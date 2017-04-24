@@ -10,3 +10,5 @@ To use:
 	2l: 2-Layer Neural Network
 	show_update: 1 to show update of boundary, leave blank if not needed
 
+Dicussion on this implementation: [my blog](https://embedai.wordpress.com/2017/04/23/neural-network-for-multiclass-classification/)
+
