@@ -1,6 +1,7 @@
 # Neural-Network-for-Classification
 Python2.7 is used in developing this project
 To use:
+
     python2.7 main.py [1l|2l] [sgd|mb] [show_update]
     sgd: Stochasitc Gradient Descent
     mb: Mini-Batch
